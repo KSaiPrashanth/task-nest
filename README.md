@@ -107,9 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Example Screenshots
-
-If you have screenshots of the app, you can include them here:
+### App Screenshots
 
 ![App Screenshot](src/assets/app.png)
 
