@@ -30,8 +30,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tasknest.git
-cd tasknest
+git clone https://github.com/ksaiprashanth/task-nest.git
+cd task-nest
 ```
 
 ### Install Dependencies
